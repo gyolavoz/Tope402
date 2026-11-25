@@ -1,0 +1,37 @@
+[
+  {
+    "ruta": "/tipo-cambio",
+    "precio": 0.01,
+    "pagado": true,
+    "hash": "cf2926a9181aba39fb6201f27d59886ac17d71cc74fa3a20779bac66a58fed22",
+    "fecha": "2026-11-25T03:29:34.017Z"
+  },
+  {
+    "ruta": "/tasa-referencia",
+    "precio": 0.01,
+    "pagado": true,
+    "hash": "e4703f9c5d5b297ffa9c539334af562e3a9b2c82efc104350969652d8351bb70",
+    "fecha": "2026-11-25T03:29:39.037Z"
+  },
+  {
+    "ruta": "/reporte-pro",
+    "precio": 0.1,
+    "pagado": false,
+    "motivo": "supera el tope por compra (0.02 USDC)",
+    "fecha": "2026-11-25T03:29:39.039Z"
+  },
+  {
+    "ruta": "/tipo-cambio",
+    "precio": 0.01,
+    "pagado": true,
+    "hash": "061d13c45a0f2503cd0ed07d82eca9c54bf3ff78643d8f89188edfb7bb5522e9",
+    "fecha": "2026-11-25T03:29:43.617Z"
+  },
+  {
+    "ruta": "/tasa-referencia",
+    "precio": 0.01,
+    "pagado": false,
+    "motivo": "se pasaría del presupuesto (0.03 USDC; ya gastó 0.03)",
+    "fecha": "2026-11-25T03:29:43.619Z"
+  }
+]
